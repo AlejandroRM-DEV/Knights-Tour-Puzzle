@@ -133,9 +133,9 @@ files:
 
     if __name__ == '__main__':    KnightsTourTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/141/stages/746/implement#comment
+feedback_link: https://hyperskill.org/learn/step/11568#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: "Fri, 04 Aug 2023 16:59:55 UTC"
-record: -1
+record: 1
